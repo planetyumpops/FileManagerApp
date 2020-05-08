@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">File Manager</string>
+    <string name="r">Rfr</string>
+    <string name="b">Bk</string>
+    <string name="nf">NF</string>
+    <string name="del">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+
+
+</resources>
