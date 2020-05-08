@@ -1,3 +1,3 @@
 # FileManagerApp
-Simple file manager app 
+Simple file manager android app 
 originally from a video tutorial. 
